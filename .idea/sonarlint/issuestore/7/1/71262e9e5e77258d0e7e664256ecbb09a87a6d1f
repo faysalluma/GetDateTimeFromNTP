@@ -1,0 +1,16 @@
+
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä»¹„þÿÿÿÿ
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä»¹„þÿÿÿÿ
+>
+java:S1604w"(Make this anonymous inner class a lambda(âýùç
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŒŠñÖ
+E
+java:S2885"/Make "SIMPLE_DATE_FORMAT" an instance variable.(«„…ü
+Q	java:S125n"<This block of commented-out lines of code should be removed.(ë•ËÃ
+E
+java:S2093G"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+Q
+java:S1854Ô":Remove this useless assignment to local variable "offset".(´Áå¡
+T
+java:S1068"9Remove this unused "REFERENCE_TIME_OFFSET" private field.(Ÿð×ÿÿÿÿÿ
